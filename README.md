@@ -1,3 +1,18 @@
+# Fortressia learns, procedural macros!
+
+This repository contains the source code of my progress in finishing David Tolnay's procedural macro workshop.
+
+I learned a lot from the workshop and I highly recommend doing this when learning Rust. Even if you only want to write applications in Rust, I still highly recommend doing this because this will help you do meta programming better in Rust.
+
+Shoutout to other peeps like 
+[@0xrofi](https://github.com/0xrofi) for their implemententation. I used them for reference, since I can't do everything on my own.
+
+If you want to ~~cheat~~ take a look at my code for reference, you're free to go. All is still in upstream's license terms. <3
+
+The original README file is as below:
+
+---
+
 # Rust Latam: procedural macros workshop
 
 *This repo contains a selection of projects designed to learn to write Rust
